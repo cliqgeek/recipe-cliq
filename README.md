@@ -1,2 +1,2 @@
-# recipe-cliq
+# Zoho Cliq
 Franz Recipe for Zoho Cliq

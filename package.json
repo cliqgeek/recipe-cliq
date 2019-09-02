@@ -1,0 +1,13 @@
+{
+  "id": "cliq",
+  "name": "Cliq",
+  "version": "1.0.0",
+  "description": "Cliq",
+  "main": "index.js",
+  "author": "Tarun S <tarun.s@zohocorp.com>",
+  "config": {
+    "serviceURL": "https://cliq.zoho.com/",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
+}
